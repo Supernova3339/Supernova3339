@@ -1,4 +1,4 @@
-[![Profile hits](https://komarev.com/ghpvc/?username=supernova3339)
+[![Profile hits](https://komarev.com/ghpvc/?username=supernova3339)]()
 [![Followers](https://img.shields.io/github/followers/supernova3339?style=social)]()
 ### Hi there 👋
 Im Supernova, a web developer/software engineer! 
