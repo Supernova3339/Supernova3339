@@ -4,6 +4,7 @@
 Im Supernova, a web developer/software engineer! 
 ### Github Statistics
 [![Supernova's GitHub stats](https://github-readme-stats.vercel.app/api?username=supernova3339)]()
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#Important)
 ![Supernova's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supernova3339)
 
 <!--
