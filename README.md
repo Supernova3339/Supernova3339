@@ -6,9 +6,9 @@ Im Supernova, a web developer/software engineer!
 [![Supernova's GitHub stats](https://github-readme-stats.vercel.app/api?username=supernova3339)]()
 ![Supernova's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supernova3339)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#Important)
-  I'm currently working on **SuperPad**
- ❓ I'm looking for help with **SuperPad**
-  Pronouns: **he/him**
+- 🔭 I'm currently working on **SuperPad**
+- ❓ I'm looking for help with **SuperPad**
+-   Pronouns: **he/him**
 # ✉ How to reach me
 Discord: supernova#1388
 Email: [supernova@supers0ft.us](mailto:supernova@supers0ft.us)
