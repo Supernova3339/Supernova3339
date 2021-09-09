@@ -1,7 +1,8 @@
 [![Profile hits](https://komarev.com/ghpvc/?username=supernova3339)]()
 [![Followers](https://img.shields.io/github/followers/supernova3339?style=social)]()
 ### Hi there 👋
-[!]Im Supernova, a web developer/software engineer! 
+Im Supernova, a web developer/software engineer! 
+### Github Statistics
 [![Supernova's GitHub stats](https://github-readme-stats.vercel.app/api?username=supernova3339)]()
 
 <!--
