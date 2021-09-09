@@ -12,7 +12,7 @@ Im Supernova, a web developer/software engineer!
 # ✉ How to reach me
 - Discord: supernova#1388
 - Email: [supernova@supers0ft.us](mailto:supernova@supers0ft.us)
-# Fun Fact 浪
+# Fun Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
