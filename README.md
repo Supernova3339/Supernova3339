@@ -2,7 +2,7 @@
 [![Followers](https://img.shields.io/github/followers/supernova3339?style=social)]()
 ### Hi there 👋
 Im Supernova, a web developer/software engineer! 
-[![Supernova's GitHub stats](https://github-readme-stats.vercel.app/api?username=supernova3339)]()
+[Supernova's GitHub stats](https://github-readme-stats.vercel.app/api?username=supernova3339)]()
 
 <!--
 **Supernova3339/Supernova3339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
