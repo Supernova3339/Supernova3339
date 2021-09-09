@@ -4,7 +4,7 @@
 Im Supernova, a web developer/software engineer! 
 ### Github Statistics
 [![Supernova's GitHub stats](https://github-readme-stats.vercel.app/api?username=supernova3339)]()
-[![Suoernova's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supernova3339)]()
+![Supernova's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supernova3339)]()
 
 <!--
 **Supernova3339/Supernova3339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
