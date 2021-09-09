@@ -8,7 +8,7 @@ Im Supernova, a web developer/software engineer!
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#Important)
 - 🔭 I'm currently working on **SuperPad**
 - ❓ I'm looking for help with **SuperPad**
--   Pronouns: **he/him**
+- 😄 Pronouns: **he/him**
 # ✉ How to reach me
 Discord: supernova#1388
 Email: [supernova@supers0ft.us](mailto:supernova@supers0ft.us)
