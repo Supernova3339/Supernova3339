@@ -10,8 +10,8 @@ Im Supernova, a web developer/software engineer!
 - ❓ I'm looking for help with **SuperPad**
 - 😄 Pronouns: **he/him**
 # ✉ How to reach me
-Discord: supernova#1388
-Email: [supernova@supers0ft.us](mailto:supernova@supers0ft.us)
+- Discord: supernova#1388
+- Email: [supernova@supers0ft.us](mailto:supernova@supers0ft.us)
 # Fun Fact 浪
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
