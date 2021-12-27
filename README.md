@@ -15,6 +15,7 @@ Im Supernova, a web developer/software engineer!
 - Website: [https://superdev.one](https://superdev.one/)
 # Fun Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+<a href= "https://app.daily.dev/Supernova3339"><img src="https://api.daily.dev/devcards/da7c7c0b84bd48d38b49f58f32ef02e1.png?r=jso" width="400" alt="SuperDev's Dev Card"/></a>
 
 
 
