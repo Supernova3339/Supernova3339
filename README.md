@@ -3,7 +3,7 @@
 ### Hi there 👋
 Im Supernova, a web developer/software engineer! 
 ### Github Statistics
-<img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=mashirozx&column=4&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" width="500">
+[![Supernova's Trophys](https://github-profile-trophy.vercel.app/?username=mashirozx&column=4&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true)]()
 [![Supernova's GitHub stats](https://github-readme-stats.vercel.app/api?username=supernova3339)]()
 ![Supernova's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supernova3339)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#Important)
