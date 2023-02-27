@@ -2,6 +2,11 @@
 [![Followers](https://img.shields.io/github/followers/supernova3339?style=social)]()
 ### Hi there 👋
 I am Owen, a web developer/software engineer! 
+
+![GitHub Snake Light](https://github.com/Supernova3339/Supernova3339/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/Supernova3339/Supernova3339/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
+
 ### Github Statistics
 [![Supernova's Trophys](https://github-profile-trophy.vercel.app/?username=supernova3339&column=4&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true)]()<br>
 [![Supernova's GitHub stats](https://github-readme-stats.vercel.app/api?username=supernova3339)]()
