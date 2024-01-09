@@ -26,9 +26,10 @@ I am Owen, a web developer/software engineer!
 - ❓ I'm looking for help with **Easyshortener**
 - 😄 Pronouns: **he/him**
 # ✉ How to reach me
-- Discord: [Supernova3339#5547](https://discordapp.com/users/1012144144304590939)
+- Discord: [superdev.one](https://discordapp.com/users/1012144144304590939)
 - Email: [supernova@superdev.one](mailto:supernova@superdev.one)
 - Website: [https://superdev.one](https://superdev.one/)
+- Twitter: [https://twitter.com/@Supernova3339](@Supernova3339)
 # Fun Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 # My Daily.DEV
