@@ -11,6 +11,7 @@ I am Owen, a web developer/software engineer!
 [![Supernova's Trophys](https://github-profile-trophy.vercel.app/?username=supernova3339&column=4&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true)]()<br>
 [![Supernova's GitHub stats](https://github-readme-stats.vercel.app/api?username=supernova3339)]()
 ![Supernova's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supernova3339)
+![Supernova's Wakapi stats](https://github-readme-stats.vercel.app/api/wakatime?username=Supernova3339&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#Important)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
