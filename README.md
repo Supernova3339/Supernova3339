@@ -33,7 +33,8 @@ I am Owen, a web developer/software engineer!
 - Twitter/X: [https://twitter.com/@Supernova3339](@Supernova3339)
 # Fun Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-# My Daily.DEV
+
+<!-- # My Daily.DEV -->
 <!-- <a href= "https://app.daily.dev/Supernova3339"><img src="https://api.daily.dev/devcards/da7c7c0b84bd48d38b49f58f32ef02e1.png?r=jso" width="400" alt="SuperDev's Dev Card"/></a> -->
 
 
