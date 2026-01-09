@@ -1,57 +1,109 @@
-[![Profile hits](https://komarev.com/ghpvc/?username=supernova3339)]()
-[![Followers](https://img.shields.io/github/followers/supernova3339?style=social)]()
-### Hi there 👋
-I am Owen, a web developer/software engineer! 
+<div align="center">
+
+# Hi, I'm Owen 👋
+
+**Full-Stack Developer • Open Source Advocate • Human-Focused Designer**
+
+<p align="center">
+  <a href="https://superdev.one"><img src="https://skills.syvixor.com/api/icons?perline=15&i=googlechrome" width="48" height="48" alt="Discord"/></a>
+  <a href="https://discordapp.com/users/1012144144304590939"><img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord"/></a>
+  <a href="mailto:supernova@superdev.one"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email"/></a>
+  <a href="https://twitter.com/Supernova3339"><img src="https://skills.syvixor.com/api/icons?i=x" width="48" height="48" alt="Twitter"/></a>
+  <a href="https://reddit.com/u/coolness1234567894"><img src="https://skills.syvixor.com/api/icons?i=reddit" width="48" height="48" alt="Twitter"/></a>
+  <a href="https://steamcommunity.com/id/supernova3339/"><img src="https://skills.syvixor.com/api/icons?i=steam" width="48" height="48" alt="Steam"/></a>
+  <a href="https://gitstreak.app/@Supernova3339"><img src="https://github.com/Supernova3339/Supernova3339/blob/main/assets/logos/gitstreak.png?raw=true" width="48" height="48" alt="GitStreak" style="border-radius: 8px;"/></a>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=supernova3339&style=flat-square&color=blueviolet)
+
+</div>
+
+![Rainbow Divider](https://github.com/Supernova3339/Supernova3339/blob/main/assets/lines/rainbow.png)
+
+## 🚀 What I Do
+
+I build software that's **convenient, transparent, and actually enjoyable to use**. I focus on solving real problems—starting with my own—then making those solutions available for everyone.
+
+**Current focus:** Building self-hosted alternatives to expensive SaaS, exploring gamification patterns, and contributing to open source. I do contract work for [Secton.org](https://secton.org), contribute to various projects, and work on tools that prioritize user control and transparency.
+
+In 2025, I got into the Fyne conference with a Go project—proof that experimenting with new tech pays off. I'm strongest in PHP but actively expanding my React skills because branching out makes you better.
+
+![Rainbow Divider](https://github.com/Supernova3339/Supernova3339/blob/main/assets/lines/rainbow.png)
+
+## 💭 Development Philosophy
+
+**Human-Centered Design** — Your software should work how *you* work, not the other way around. I build with extensive customization and thoughtful details that add up to something meaningful.
+
+**Convenience First** — When you focus on convenience, everything else falls into place. All those little features that tie everything together emerge naturally.
+
+**Open & Transparent** — Self-hosted alternatives to expensive SaaS. You own your data. Open source by default because transparency builds trust.
+
+**Always Learning** — Currently exploring gamification and human-focused interface design. The goal: software people actually *enjoy* using, not just tolerate.
+
+![Rainbow Divider](https://github.com/Supernova3339/Supernova3339/blob/main/assets/lines/rainbow.png)
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=php,ts,js,laravel,react,nextjs,html,css,tailwind,go" />
+
+### Databases & Backend
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,cloudflare" />
+
+### Tools & Design
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=git,github,webstorm,phpstorm,penpot,docker" />
+
+</div>
+
+**My Approach:** Laravel for speed and familiarity. React for modern UX. PostgreSQL for reliability. When something needs to be simple or niche, I drop back to plain PHP. I prefer TypeScript for type safety, Tailwind and Framer Motion for React projects, and I'm not afraid to write plain CSS when the situation calls for it.
+
+![Rainbow Divider](https://github.com/Supernova3339/Supernova3339/blob/main/assets/lines/rainbow.png)
+
+## 👨‍💻 About Me
+
+I started programming by following a YouTube tutorial to build a notepad app in C#. That curiosity turned into desktop development, then web development, and now I'm here—building tools I wish existed when I started.
+
+Beyond code, I'm a **creative writer** (science fiction & speculative fiction), a **skier**, and a **gamer**. I believe that compliments, encouragement, and a human touch are what make great software stick.
+
+**My Goal:** Make enough from my projects to go full open-source and focus entirely on building solutions to modern problems. Software that respects you, gives you control, and doesn't lock you into subscriptions you can't afford.
+
+![Rainbow Divider](https://github.com/Supernova3339/Supernova3339/blob/main/assets/lines/rainbow.png)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=Supernova3339&theme=radical&hide_border=true&mode=weekly&background=0D1117)](https://git.io/streak-stats)
+
+<sub>💡 I'm working on an embeddable profile widget for GitStreak—expect a few more things to show up here soon!</sub>
+
 
 ![GitHub Snake Light](https://github.com/Supernova3339/Supernova3339/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/Supernova3339/Supernova3339/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
+</div>
 
-### Github Statistics
-[![Supernova's Trophys](https://github-profile-trophy.vercel.app/?username=supernova3339&column=4&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true)]()<br>
-[![Supernova's GitHub stats](https://github-readme-stats.vercel.app/api?username=supernova3339)]()
-![Supernova's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supernova3339)
-![Supernova's Wakapi stats](https://github-readme-stats.vercel.app/api/wakatime?username=Supernova3339&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#Important)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/supernova3339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="youtheman1221" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/1012144144304590939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MEUMSqYDMA" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/channel/ucbty3um5bzpgabzujrt17eg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucbty3um5bzpgabzujrt17eg" height="30" width="40" /></a>
-</p>
+![Rainbow Divider](https://github.com/Supernova3339/Supernova3339/blob/main/assets/lines/rainbow.png)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+## 💬 Let's Connect
 
-- 🔭 I'm currently working on **Changerawr**
-- ❓ I'm looking for help with **Changerawr**
-- 😄 Pronouns: **he/him**
-# ✉ How to reach me
-- Discord: [superdev.one](https://discordapp.com/users/1012144144304590939)
-- Email: [supernova@superdev.one](mailto:supernova@superdev.one)
-- Website: [https://superdev.one](https://superdev.one/)
-- Twitter/X: [https://twitter.com/@Supernova3339](@Supernova3339)
-# Fun Joke
-![Jokes Card](https://readme-jokes.vercel.app/api)
+I'd love to hear from you—whether it's about **collaboration**, **feedback**, or just chatting about development philosophy and building better software.
 
-<!-- # My Daily.DEV -->
-<!-- <a href= "https://app.daily.dev/Supernova3339"><img src="https://api.daily.dev/devcards/da7c7c0b84bd48d38b49f58f32ef02e1.png?r=jso" width="400" alt="SuperDev's Dev Card"/></a> -->
+<div align="center">
 
+**If you find value in what I'm building, consider [sponsoring my work](https://github.com/sponsors/supernova3339).**  
+*Every bit helps me move closer to full-time open source.*
 
+</div>
 
-<!--
-**Supernova3339/Supernova3339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Rainbow Divider](https://github.com/Supernova3339/Supernova3339/blob/main/assets/lines/rainbow.png)
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Details are the most important. Little useful things go a long way when you put thousands of them together."*
 
-![](https://hit.yhype.me/github/profile?user_id=63515814)
+![Visitor Count](https://hit.yhype.me/github/profile?user_id=63515814)
+
+</div>
