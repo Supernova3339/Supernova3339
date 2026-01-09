@@ -61,6 +61,37 @@ In 2025, I got into the Fyne conference with a Go project—proof that experimen
 
 ![Rainbow Divider](https://github.com/Supernova3339/Supernova3339/blob/main/assets/lines/rainbow.png)
 
+## 🚧 Work in Progress
+
+<table>
+<tr>
+<td width="100%">
+
+### Blogawr
+**A plug-and-play blog solution for React**
+
+Building a fully-featured alternative to Outstatic that's designed to be dropped into any React project. Focused on developer experience, flexibility, and keeping things simple.
+
+🎯 **Goal:** Self-hosted, customizable, and developer focused. Full CLI, studio, and extremely easy to use. You wouldn't even need AI to understand how it works!
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### GitStreak Embeddable Widget
+**Profile widgets for your GitHub README**
+
+Creating embeddable profile widgets for GitStreak that let you showcase your coding streak and stats directly in your README. Making streak tracking more visual and shareable.
+
+🎯 **Goal:** Beautiful, customizable widgets that celebrate consistent coding habits.
+
+</td>
+</tr>
+</table>
+
+<sub>💡 Expect more projects to show up here as I explore new ideas and build solutions to problems I encounter!</sub>
+
 ## 👨‍💻 About Me
 
 I started programming by following a YouTube tutorial to build a notepad app in C#. That curiosity turned into desktop development, then web development, and now I'm here—building tools I wish existed when I started.
