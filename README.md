@@ -14,7 +14,9 @@
   <a href="https://gitstreak.app/@Supernova3339"><img src="https://github.com/Supernova3339/Supernova3339/blob/main/assets/logos/gitstreak.png?raw=true" width="48" height="48" alt="GitStreak" style="border-radius: 8px;"/></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=supernova3339&style=flat-square&color=blueviolet)
+<div align="center">
+  <img src="https://count.getloli.com/@:Supernova3339?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
 </div>
 
@@ -111,8 +113,11 @@ Beyond code, I'm a **creative writer** (science fiction & speculative fiction), 
 <sub>💡 I'm working on an embeddable profile widget for GitStreak—expect a few more things to show up here soon!</sub>
 
 
-![GitHub Snake Light](https://github.com/Supernova3339/Supernova3339/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/Supernova3339/Supernova3339/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Supernova3339/Supernova3339/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Supernova3339/Supernova3339/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Supernova3339/Supernova3339/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
 
