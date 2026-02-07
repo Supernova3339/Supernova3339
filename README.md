@@ -18,6 +18,14 @@
   <img src="https://count.getloli.com/@:Supernova3339?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
+<br/>
+
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **Changerawr** | Changelog software for everyone | [View Project](https://github.com/Supernova3339/changerawr) |
+| **Gavatar** | Avatar Provider for Geometry Dash. | [View Project](https://github.com/Supernova3339/gavatar) |
+| **Changerawr Universal Markdown** | Extremely powerful content engine used to power Changerawr | [View Project](https://github.com/changerawr/markdown) |
+
 </div>
 
 ![Rainbow Divider](https://github.com/Supernova3339/Supernova3339/blob/main/assets/lines/rainbow.png)
