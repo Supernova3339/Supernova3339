@@ -86,18 +86,6 @@ Building a fully-featured alternative to Outstatic that's designed to be dropped
 
 </td>
 </tr>
-<tr>
-<td width="100%">
-
-### GitStreak Embeddable Widget
-**Profile widgets for your GitHub README**
-
-Creating embeddable profile widgets for GitStreak that let you showcase your coding streak and stats directly in your README. Making streak tracking more visual and shareable.
-
-🎯 **Goal:** Beautiful, customizable widgets that celebrate consistent coding habits.
-
-</td>
-</tr>
 </table>
 
 <sub>💡 Expect more projects to show up here as I explore new ideas and build solutions to problems I encounter!</sub>
@@ -116,7 +104,8 @@ Beyond code, I'm a **creative writer** (science fiction & speculative fiction), 
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=Supernova3339&theme=radical&hide_border=true&mode=weekly&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=Supernova3339&theme=radical&hide_border=true&mode=weekly&background=0D1117)](https://git.io/streak-stats) \
+[![GitStreak](https://gitstreak.app/api/card/Supernova3339)](https://gitstreak.app/@Supernova3339)
 
 <sub>💡 I'm working on an embeddable profile widget for GitStreak—expect a few more things to show up here soon!</sub>
 
